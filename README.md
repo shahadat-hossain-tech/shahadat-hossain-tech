@@ -6,7 +6,9 @@
 - Passionate about **Cyber Security**, **CMS Development** and **Digital Growth Strategy**  
 - Focused on Ethical Hacking, Security Automation & Online Business Optimization
 
----
+## 🚀 About Me
+
+I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Marketing Expert. I build websites in WordPress, Shopify, Webflow and other CMS. I occasionally use HTML and CSS to customize CMS-based websites and use Python for cybersecurity projects. UI/UX designing with Figma keeps me motivated, and I am proficient in tools like Kali Linux, Nmap and Metasploit. I merge web technologies, hacking skills and marketing strategies to create secure and effective online solutions.
 
 ## 🔐 My Focus Areas
 
@@ -16,7 +18,7 @@
 - **Python for Automation & Recon**
 - **Digital Marketing for Secure Growth**
 
----
+
 
 ## 👨‍💻 Skills & Tools
 
@@ -38,7 +40,7 @@
 - Google Ads, Facebook Ads, SEO Tools
 - Google Analytics, Email Automation
 
----
+
 
 ## 📌 Featured Projects
 
@@ -48,14 +50,14 @@
 - `fancystall-theme` – A WooCommerce-based lightweight custom theme
 
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Shahadat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat-hossain-tech&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-hossain-tech&layout=compact&theme=tokyonight)
 
----
+
 
 ## 📫 Connect With Me
 
