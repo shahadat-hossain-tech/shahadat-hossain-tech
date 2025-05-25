@@ -1,24 +1,24 @@
-# Hi there, I'm Shahadat Hossain
+# Hi, I'm Shahadat Hossain
 
-## 🛡️ Ethical Hacking Analyst & Specialist | 💻 CMS-based Web Developer | 📢 Digital Marketing Expert
+## Ethical Hacking Analyst & Specialist | CMS-based Web Developer | Digital Marketing Expert
 
-🎯 Founder of [Fancy Stall](https://fancystall.com)
-💼 Passionate about **Cyber Security**, **CMS Development**, and **Digital Growth Strategy**  
-🧠 Focused on Ethical Hacking, Security Automation & Online Business Optimization
+- Founder of [Fancy Stall](https://fancystall.com) <br>
+- Passionate about **Cyber Security**, **CMS Development**, and **Digital Growth Strategy**  
+- Focused on Ethical Hacking, Security Automation & Online Business Optimization
 
 ---
 
 ## 🔐 My Focus Areas
 
-- 🎯 **Penetration Testing** (Web & Network)
-- 🔍 **Vulnerability Assessment & Reporting**
-- 💻 **CMS Security Hardening** (WordPress, Shopify)
-- ⚙️ **Python for Automation & Recon**
-- 📈 **Digital Marketing for Secure Growth**
+- **Penetration Testing** (Web & Network)
+- **Vulnerability Assessment & Reporting**
+- **CMS Security Hardening** (WordPress, Shopify)
+- **Python for Automation & Recon**
+- **Digital Marketing for Secure Growth**
 
 ---
 
-## 🛠 Skills & Tools
+## 👨‍💻 Skills & Tools
 
 ### ⚔️ Cyber Security:
 - Kali Linux, Nmap, Metasploit, Burp Suite, Hydra
@@ -38,10 +38,10 @@
 
 ## 📌 Featured Projects
 
-- 🔒 `wp-security-checker` – A WordPress plugin to audit basic security issues
-- ⚙️ `python-auto-recon` – Basic Python scripts for automating recon tasks
-- 🧪 `bug-report-template` – Professional bug report markdown format
-- 🌐 `fancystall-theme` – A WooCommerce-based lightweight custom theme
+- `wp-security-checker` – A WordPress plugin to audit basic security issues
+- `python-auto-recon` – Basic Python scripts for automating recon tasks
+- `bug-report-template` – Professional bug report markdown format
+- `fancystall-theme` – A WooCommerce-based lightweight custom theme
 
 ➡️ Visit all repositories: [github.com/shahadat-hossain-tech](https://github.com/shahadat-hossain-tech)
 
