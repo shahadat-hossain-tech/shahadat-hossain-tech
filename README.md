@@ -73,63 +73,53 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
   </a>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@shahadat_hossain_tech" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/you.png" alt="YouTube" width="35">
+  <a href="https://www.youtube.com/@shahadat_hossain_tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/you.png" alt="YouTube" width="35" style="max-width: 100%;">
   </a>
   
   <!-- Twitter -->
-  <a href="https://x.com/shahadat_net" target="_blank" rel="nofollow">
+  <a href="https://x.com/shahadat_net" target="_blank">
     <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/tw.png" alt="Twitter" width="35" style="max-width: 100%;">
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/shahadat_tech" target="_blank" rel="nofollow">
+  <a href="https://www.instagram.com/shahadat_tech" target="_blank">
     <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/ig.png" alt="Instagram" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Pinterest -->
-  <a href="https://www.pinterest.com/shahadat_tech" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/pin.png" alt="Pinterest" width="35">
+  <a href="https://www.pinterest.com/shahadat_tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/pin.png" alt="Pinterest" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@shahadat_hossain" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/me.png" alt="Medium" width="35">
+  <a href="https://medium.com/@shahadat_hossain" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/me.png" alt="Medium" width="35" style="max-width: 100%;">
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/shahadat-hossain-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/git.png" alt="GitHub" width="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/git.png" alt="GitHub" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Behance -->
-  <a href="https://www.behance.net/shahadat-hossain" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="35">
+  <a href="https://www.behance.net/shahadat-hossain" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/be.png" alt="Behance" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Dribbble -->
-  <a href="https://dribbble.com/shahadat-hossain" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Dribbble" width="35">
+  <a href="https://dribbble.com/shahadat-hossain" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/bri.png" alt="Dribbble" width="35" style="max-width: 100%;">
   </a>
 
-  <!-- Quora Bangla -->
-  <a href="https://bn.quora.com/profile/Shahadat-Hossain-3164" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968772.png" alt="Quora Bangla" width="35">
-  </a>
-
-  <!-- Quora English -->
-  <a href="https://www.quora.com/profile/Shahadat-Hossain-3177" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968772.png" alt="Quora English" width="35">
+  <!-- Quora -->
+  <a href="https://www.quora.com/profile/Shahadat-Hossain-3177" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/qu.png" alt="Quora English" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/shahadat_tech" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" width="35">
-  </a>
-
-  <!-- Personal Website -->
-  <a href="#" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35">
+  <a href="https://www.reddit.com/user/shahadat_tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/reddit.png" alt="Reddit" width="35" style="max-width: 100%;">
   </a>
 </p>
 
