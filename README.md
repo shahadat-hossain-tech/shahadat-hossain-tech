@@ -57,20 +57,20 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.facebook.com/shahadathossain.bd" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30" style="max-width: 100%;">
+  <a href="[https://www.facebook.com/shahadathossain.bd](https://www.facebook.com/shahadathossain.tech)" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="40" style="max-width: 100%;">
   </a>
   <a href="https://twitter.com/shahadathossain" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="40" style="max-width: 100%;">
   </a>
   <a href="https://www.instagram.com/shahadathossain" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="40" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/shahadat-hossain" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="40" style="max-width: 100%;">
   </a>
   <a href="https://github.com/shahadat-hossain-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="40" style="max-width: 100%;">
   </a>
 </p>
 
