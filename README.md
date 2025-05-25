@@ -63,13 +63,13 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
 
 <p align="left">
   <!-- Facebook -->
-  <a href="https://www.facebook.com/shahadathossain.tech" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="35" style="max-width: 100%;">
+  <a href="https://www.facebook.com/shahadathossain.tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/fb.png" alt="Facebook" width="35" style="max-width: 100%;">
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shahadat-tech" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="35" style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/shahadat-tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/in.png" alt="LinkedIn" width="35" style="max-width: 100%;">
   </a>
 
   <!-- YouTube -->
@@ -79,27 +79,27 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
   
   <!-- Twitter -->
   <a href="https://x.com/shahadat_net" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="35" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/tw.png" alt="Twitter" width="35" style="max-width: 100%;">
   </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/shahadat_tech" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="35" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/ig.png" alt="Instagram" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Pinterest -->
   <a href="https://www.pinterest.com/shahadat_tech" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Pinterest" width="35">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/pin.png" alt="Pinterest" width="35">
   </a>
 
   <!-- Medium -->
   <a href="https://medium.com/@shahadat_hossain" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="35">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/me.png" alt="Medium" width="35">
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/shahadat-hossain-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/git.png" alt="GitHub" width="40" style="max-width: 100%;">
   </a>
 
   <!-- Behance -->
