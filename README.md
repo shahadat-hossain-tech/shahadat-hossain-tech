@@ -1,6 +1,6 @@
 # Hi, I'm Shahadat Hossain
-## Ethical Hacking Analyst & Specialist | CMS-based Web Developer | Digital Marketing Expert
 
+### Ethical Hacking Analyst & Specialist | Web Developer | Digital Marketing Expert
 - Founder of [Fancy Stall](https://fancystall.com) <br>
 - Passionate about **Cyber Security**, **CMS Development** and **Digital Growth Strategy**  
 - Focused on Ethical Hacking, Security Automation & Online Business Optimization
@@ -16,7 +16,6 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
 - **CMS Security Hardening** (WordPress, Shopify)
 - **Python for Automation & Recon**
 - **Digital Marketing for Secure Growth**
-
 
 
 ## 👨‍💻 Skills & Tools
