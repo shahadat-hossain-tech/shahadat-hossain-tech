@@ -56,8 +56,8 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.facebook.com/shahadathossain.bd" target="_blank" rel="nofollow">
+<p align="left">
+  <a href="https://www.facebook.com/shahadathossain.bd" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30" style="max-width: 100%;">
   </a>
   <a href="https://twitter.com/shahadathossain" target="_blank" rel="nofollow">
