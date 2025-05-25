@@ -3,7 +3,7 @@
 ## Ethical Hacking Analyst & Specialist | CMS-based Web Developer | Digital Marketing Expert
 
 - Founder of [Fancy Stall](https://fancystall.com) <br>
-- Passionate about **Cyber Security**, **CMS Development**, and **Digital Growth Strategy**  
+- Passionate about **Cyber Security**, **CMS Development** and **Digital Growth Strategy**  
 - Focused on Ethical Hacking, Security Automation & Online Business Optimization
 
 ---
@@ -30,6 +30,10 @@
 - Custom Theme & Plugin Development
 - HTML5, CSS3, Elementor
 
+### 🎨 UI/UX Design & Prototyping
+- Figma
+- Adobe Photoshop
+
 ### 📈 Marketing Tools:
 - Google Ads, Facebook Ads, SEO Tools
 - Google Analytics, Email Automation
@@ -43,7 +47,6 @@
 - `bug-report-template` – Professional bug report markdown format
 - `fancystall-theme` – A WooCommerce-based lightweight custom theme
 
-➡️ Visit all repositories: [github.com/shahadat-hossain-tech](https://github.com/shahadat-hossain-tech)
 
 ---
 
@@ -128,9 +131,3 @@
   </a>
 </p>
 
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=shahadat-hossain-tech&color=blue)
-
-> ⚠️ This profile is dedicated to ethical and legal research in cybersecurity only.
