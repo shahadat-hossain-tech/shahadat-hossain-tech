@@ -2,7 +2,7 @@
 
 ## 🛡️ Ethical Hacking Analyst & Specialist | 💻 CMS-based Web Developer | 📢 Digital Marketing Expert
 
-🎯 Founder of [Fancy Stall](https://fancystall.com) & [Xtoms](https://xtoms.com)  
+🎯 Founder of [Fancy Stall](https://fancystall.com)
 💼 Passionate about **Cyber Security**, **CMS Development**, and **Digital Growth Strategy**  
 🧠 Focused on Ethical Hacking, Security Automation & Online Business Optimization
 
@@ -26,7 +26,7 @@
 - Wireshark, John the Ripper, WPScan
 
 ### 💻 CMS Development:
-- WordPress, WooCommerce, Shopify
+- WordPress, WooCommerce, Shopify, Webflow, Wix, Squarespace
 - Custom Theme & Plugin Development
 - HTML5, CSS3, Elementor
 
@@ -56,10 +56,10 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Website: [fancystall.com](https://fancystall.com)
-- 🧠 Learning Portal: [xtoms.com](https://xtoms.com)
+- 🌐 Website: 
+- 🧠 Learning Portal: 
 - 💼 LinkedIn: [linkedin.com/in/shahadat-hossain](https://linkedin.com/in/shahadat-hossain)
-- 📧 Email: shahadathossain@email.com
+- 📧 Email: 
 - 🐦 Twitter: [@shahadathossain](https://twitter.com/shahadathossain)
 
 ---
