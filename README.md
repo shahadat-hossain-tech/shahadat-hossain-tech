@@ -56,11 +56,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Website: 
-- 🧠 Learning Portal: 
-- 💼 LinkedIn: [linkedin.com/in/shahadat-hossain](https://linkedin.com/in/shahadat-hossain)
-- 📧 Email: 
-- 🐦 Twitter: [@shahadathossain](https://twitter.com/shahadathossain)
+<p align="center"> <a href="https://fancystall.com" target="_blank"><img src="https://img.shields.io/badge/Website-Fancy%20Stall-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> <a href="https://xtoms.com" target="_blank"><img src="https://img.shields.io/badge/Website-Xtoms-blue?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a> <a href="mailto:shahadathossain@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shahadat-hossain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/shahadathossain" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
 
 ---
 
