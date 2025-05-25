@@ -74,7 +74,7 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@shahadat_hossain_tech" target="_blank" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="35">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/you.png" alt="YouTube" width="35">
   </a>
   
   <!-- Twitter -->
