@@ -69,7 +69,7 @@
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@shahadat_hossain_tech" target="_blank" rel="nofollow">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="35">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="35">
   </a>
   
   <!-- Twitter -->
