@@ -56,7 +56,24 @@
 
 ## 📫 Connect With Me
 
-<p align="center"> <a href="https://fancystall.com" target="_blank"><img src="https://img.shields.io/badge/Website-Fancy%20Stall-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> <a href="https://xtoms.com" target="_blank"><img src="https://img.shields.io/badge/Website-Xtoms-blue?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a> <a href="mailto:shahadathossain@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shahadat-hossain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/shahadathossain" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
+<p align="center">
+  <a href="https://www.facebook.com/shahadathossain.bd" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/shahadathossain" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30" style="max-width: 100%;">
+  </a>
+  <a href="https://www.instagram.com/shahadathossain" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/shahadat-hossain" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/shahadat-hossain-tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30" style="max-width: 100%;">
+  </a>
+</p>
+
 
 ---
 
