@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shahadat Hossain
 
-<!--
-**shahadat-hossain-tech/shahadat-hossain-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Ethical Hacking Analyst & Specialist | 💻 CMS-based Web Developer | 📢 Digital Marketing Expert
 
-Here are some ideas to get you started:
+🎯 Founder of [Fancy Stall](https://fancystall.com) & [Xtoms](https://xtoms.com)  
+💼 Passionate about **Cyber Security**, **CMS Development**, and **Digital Growth Strategy**  
+🧠 Focused on Ethical Hacking, Security Automation & Online Business Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 My Focus Areas
+
+- 🎯 **Penetration Testing** (Web & Network)
+- 🔍 **Vulnerability Assessment & Reporting**
+- 💻 **CMS Security Hardening** (WordPress, Shopify)
+- ⚙️ **Python for Automation & Recon**
+- 📈 **Digital Marketing for Secure Growth**
+
+---
+
+## 🛠 Skills & Tools
+
+### ⚔️ Cyber Security:
+- Kali Linux, Nmap, Metasploit, Burp Suite, Hydra
+- OWASP Top 10, XSS, SQL Injection, CSRF
+- Wireshark, John the Ripper, WPScan
+
+### 💻 CMS Development:
+- WordPress, WooCommerce, Shopify
+- Custom Theme & Plugin Development
+- HTML5, CSS3, Elementor
+
+### 📈 Marketing Tools:
+- Google Ads, Facebook Ads, SEO Tools
+- Google Analytics, Email Automation
+
+---
+
+## 📌 Featured Projects
+
+- 🔒 `wp-security-checker` – A WordPress plugin to audit basic security issues
+- ⚙️ `python-auto-recon` – Basic Python scripts for automating recon tasks
+- 🧪 `bug-report-template` – Professional bug report markdown format
+- 🌐 `fancystall-theme` – A WooCommerce-based lightweight custom theme
+
+➡️ Visit all repositories: [github.com/shahadat-hossain-tech](https://github.com/shahadat-hossain-tech)
+
+---
+
+## 📊 GitHub Stats
+
+![Shahadat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat-hossain-tech&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-hossain-tech&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: [fancystall.com](https://fancystall.com)
+- 🧠 Learning Portal: [xtoms.com](https://xtoms.com)
+- 💼 LinkedIn: [linkedin.com/in/shahadat-hossain](https://linkedin.com/in/shahadat-hossain)
+- 📧 Email: shahadathossain@email.com
+- 🐦 Twitter: [@shahadathossain](https://twitter.com/shahadathossain)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahadat-hossain-tech&color=blue)
+
+> ⚠️ This profile is dedicated to ethical and legal research in cybersecurity only.
