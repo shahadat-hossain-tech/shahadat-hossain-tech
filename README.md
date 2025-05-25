@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shahadat Hossain
+# Hi there, I'm Shahadat Hossain
 
 ## 🛡️ Ethical Hacking Analyst & Specialist | 💻 CMS-based Web Developer | 📢 Digital Marketing Expert
 
