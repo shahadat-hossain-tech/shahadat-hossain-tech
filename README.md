@@ -1,5 +1,4 @@
 # Hi, I'm Shahadat Hossain
-
 ## Ethical Hacking Analyst & Specialist | CMS-based Web Developer | Digital Marketing Expert
 
 - Founder of [Fancy Stall](https://fancystall.com) <br>
@@ -89,7 +88,7 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
 
   <!-- Pinterest -->
   <a href="https://www.pinterest.com/shahadat_tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/pin.png" alt="Pinterest" width="35" style="max-width: 100%;">
+    <img src="https://github.com/shahadat-hossain-tech/shahadat-hossain-tech/blob/main/pin.png" alt="Pinterest" width="35" style="max-width: 100%;">
   </a>
 
   <!-- Medium -->
@@ -119,7 +118,7 @@ I am Shahadat Hossain — Web Developer, Ethical Hacking Analyst and Digital Mar
 
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/shahadat_tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/34932bccd7580992d037c7ffb4117b8b12574c2a/reddit.png" alt="Reddit" width="35" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/shahadat-hossain-tech/shahadat-hossain-tech/refs/heads/main/rd.png" alt="Reddit" width="35" style="max-width: 100%;">
   </a>
 </p>
 
